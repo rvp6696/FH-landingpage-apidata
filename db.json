@@ -1,0 +1,34 @@
+{
+    "doctordata": [
+        {
+            "name":"Dr Namita Singh",
+            "expertise":"MPTh (musculoskeletal)",
+            "city":"Bangalore"
+        },
+        {
+            "name":"Dr Alex Robinnson",
+            "expertise":"MPTh (musculoskeletal Science)",
+            "city":"Bangalore"
+        },
+        {
+            "name":"Dr Sheetal Lelani",
+            "expertise":"MPTh (neuro physiotherapy)",
+            "city":"Chennai"
+        },
+        {
+            "name":"Dr Manasi Bane",
+            "expertise":"MPTh (neuro science)",
+            "city":"Chennai"
+        },
+        {
+            "name":"Dr Ritika Saxena",
+            "expertise":"M.Sc (Neuro Rehabitilation)",
+            "city":"Pune"
+        },
+        {
+            "name":"Dr Arjun Singh",
+            "expertise":"MPTh (Musculoskeletal Sciences)",
+            "city":"Pune"
+        }
+    ]
+}
